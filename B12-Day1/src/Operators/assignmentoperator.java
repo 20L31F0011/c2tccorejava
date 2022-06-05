@@ -1,4 +1,4 @@
-package Operators;
+package com.first.core;
 
 public class assignmentoperator {
 
